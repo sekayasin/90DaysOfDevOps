@@ -23,28 +23,28 @@ English Version | [中文版本](zh_cn/README.md) | [繁體中文版本](zh_tw/R
 - [✔️] ♾️ 2 > [DevOpsエンジニアの責務](Days/day02.md)
 - [✔️] ♾️ 3 > [DevOps ライフサイクル - アプリケーションフォーカス](Days/day03.md)
 - [✔️] ♾️ 4 > [DevOps & アジャイル](Days/day04.md)
-- [✔️] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [✔️] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+- [✔️] ♾️ 5 > [計画 > コーディング > ビルド > テスト > リリース > デプロイ > オペレート > 監視](Days/day05.md)
+- [✔️] ♾️ 6 > [DevOps - 本当の話](Days/day06.md)
 
-### Learning a Programming Language
+### プログラミング言語の学習
 
-- [✔️] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
-- [✔️] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
-- [✔️] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
-- [✔️] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
-- [✔️] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
-- [✔️] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
-- [✔️] ⌨️ 13 > [Tweet your progress with our new App](Days/day13.md)
+- [✔️] ⌨️ 7 > [全体像: DevOpsとプログラミング言語の学習](Days/day07.md)
+- [✔️] ⌨️ 8 > [GoとHello WorldのためのDevOps環境のセットアップ](Days/day08.md)
+- [✔️] ⌨️ 9 > [Hello Worldのコードを説明しましょう](Days/day09.md)
+- [✔️] ⌨️ 10 > [Goワークスペースとコードのコンパイルと実行](Days/day10.md)
+- [✔️] ⌨️ 11 > [変数、定数、データ型](Days/day11.md)
+- [✔️] ⌨️ 12 > [ポインタを使ったユーザー入力の取得と完成したプログラム](Days/day12.md)
+- [✔️] ⌨️ 13 > [新しいアプリで進捗をツイート](Days/day13.md)
 
 ### Knowing Linux Basics
 
-- [✔️] 🐧 14 > [The Big Picture: DevOps and Linux](Days/day14.md)
-- [✔️] 🐧 15 > [Linux Commands for DevOps (Actually everyone)](Days/day15.md)
-- [✔️] 🐧 16 > [Managing your Linux System, Filesystem & Storage](Days/day16.md)
-- [✔️] 🐧 17 > [Text Editors - nano vs vim](Days/day17.md)
-- [✔️] 🐧 18 > [SSH & Web Server(LAMP)](Days/day18.md)
-- [✔️] 🐧 19 > [Automate tasks with bash scripts](Days/day19.md)
-- [✔️] 🐧 20 > [Dev workstation setup - All the pretty things](Days/day20.md)
+- [✔️] 🐧 14 > [全体像の把握 DevOpsとLinux](Days/day14.md)
+- [✔️] 🐧 15 > [DevOpsのためのLinuxコマンド](Days/day15.md)
+- [✔️] 🐧 16 > [Linuxシステム、ファイルシステム、ストレージの管理](Days/day16.md)
+- [✔️] 🐧 17 > [テキストエディター - nano vs vim](Days/day17.md)
+- [✔️] 🐧 18 > [SSH＆Webサーバー](Days/day18.md)
+- [✔️] 🐧 19 > [bashスクリプトによるタスクの自動化](Days/day19.md)
+- [✔️] 🐧 20 > [開発用ワークステーションのセットアップ - きれいなものばかり](Days/day20.md)
 
 ### Understand Networking
 
